@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+  background-color:#097af4;
+}
+
+
+li{
+  list-style: none;
+  color:white;
+  padding:5px;
+  border: white;
+  width:100%;
+  margin:0 auto;
+}
+h1{
+  color:white;
+}
+
+ul{
+  color:white;
+  padding: 0;
+}
+
+li:hover{
+  background-color: rgb(79, 255, 79);
+}
+
+li a{
+  text-decoration: none;
+  color:white;
+  font-size: 20px;
+}
+
+a{
+  text-decoration: none;
+  color:white;
+  font-size:20px;
+  
+}
+button{
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border:0.1em solid #FFFFFF;
+  margin:0 0.3em 0.3em 0;
+  border-radius:0.12em;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-family:'Roboto',sans-serif;
+  font-size:15px;
+  font-weight:300;
+  color:white;
+  background-color: #097af4;
+  text-align:center;
+  transition: all 0.2s;
+  margin-left: 15px;
+}
+.add_folder{
+  margin-top:20px;
+}
+
+.add_folder{
+  
+  margin-top: 20px;
+  font-size: 15px;
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border:0.1em solid #FFFFFF;
+  margin:0 0.3em 0.3em 0;
+  border-radius:0.12em;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-family:'Roboto',sans-serif;
+  font-size:20px;
+  font-weight:300;
+  color:white;
+  background-color: #26408B;
+  text-align:center;
+  transition: all 0.2s;  
+}
+.add_note{  
+  margin-top: 20px;
+  font-size: 15px;
+  display:inline-block;
+  padding:0.35em 1.2em;
+  border:0.1em solid #FFFFFF;
+  margin:0 0.3em 0.3em 0;
+  border-radius:0.12em;
+  box-sizing: border-box;
+  text-decoration:none;
+  font-family:'Roboto',sans-serif;
+  font-size:20px;
+  font-weight:300;
+  color:white;
+  background-color: #26408B;
+  text-align:center;
+  transition: all 0.2s;  
+}
+
+.add_note{
+  font-size:15px;
+  margin-top: 20px;
+}
